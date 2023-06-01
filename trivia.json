@@ -1,0 +1,115 @@
+{
+    "preguntas": [
+      {
+        "enunciado": "¿Cuál es el país más grande del mundo?",
+        "opciones": [
+          "Estados Unidos",
+          "Rusia",
+          "China",
+          "India"
+        ],
+        "respuesta_correcta": "Rusia",
+        "explicacion": "Rusia es el país más grande del mundo en términos de superficie. Ocupa gran parte de Europa del Este y Asia del Norte."
+      },
+      {
+        "enunciado": "¿En qué año llegó el hombre a la luna por primera vez?",
+        "opciones": [
+          "1969",
+          "1975",
+          "1981",
+          "1992"
+        ],
+        "respuesta_correcta": "1969",
+        "explicacion": "El hombre llegó a la luna por primera vez el 20 de julio de 1969, durante la misión Apollo 11 de la NASA."
+      },
+      {
+        "enunciado": "¿Cuál es el río más largo del mundo?",
+        "opciones": [
+          "Amazonas",
+          "Nilo",
+          "Mississippi",
+          "Yangtsé"
+        ],
+        "respuesta_correcta": "Nilo",
+        "explicacion": "El río Nilo es considerado el más largo del mundo, con una longitud aproximada de 6,650 kilómetros. Fluye a través de varios países en el noreste de África."
+      },
+      {
+        "enunciado": "¿Cuál es el animal terrestre más grande del mundo?",
+        "opciones": [
+          "Elefante africano",
+          "Rinoceronte blanco",
+          "Jirafa",
+          "Hipopótamo"
+        ],
+        "respuesta_correcta": "Elefante africano",
+        "explicacion": "El elefante africano es el animal terrestre más grande del mundo. Los machos adultos pueden llegar a pesar más de 6 toneladas y medir más de 3 metros de altura en el hombro."
+      },
+      {
+        "enunciado": "¿Quién pintó la Mona Lisa?",
+        "opciones": [
+          "Pablo Picasso",
+          "Leonardo da Vinci",
+          "Vincent van Gogh",
+          "Michelangelo"
+        ],
+        "respuesta_correcta": "Leonardo da Vinci",
+        "explicacion": "La Mona Lisa fue pintada por Leonardo da Vinci, uno de los artistas más destacados del Renacimiento italiano. Es considerada una de las obras de arte más famosas y reconocibles del mundo."
+      },
+      {
+        "enunciado": "¿Cuál es el metal más abundante en la corteza terrestre?",
+        "opciones": [
+          "Hierro",
+          "Aluminio",
+          "Plomo",
+          "Cobre"
+        ],
+        "respuesta_correcta": "Aluminio",
+        "explicacion": "El aluminio es el metal más abundante en la corteza terrestre, representando aproximadamente el 8% de su peso. Se utiliza en una amplia variedad de aplicaciones, desde construcción hasta envases."
+      },
+      {
+        "enunciado": "¿Cuál es la montaña más alta del mundo?",
+        "opciones": [
+          "Monte Everest",
+          "Monte Kilimanjaro",
+          "Monte Aconcagua",
+          "Monte McKinley"
+        ],
+        "respuesta_correcta": "Monte Everest",
+        "explicacion": "El Monte Everest es la montaña más alta del mundo, con una altitud de 8,848 metros sobre el nivel del mar. Se encuentra en la cordillera del Himalaya, en la frontera entre Nepal y China (Tíbet)."
+      },
+      {
+        "enunciado": "¿Cuál es el instrumento musical más antiguo?",
+        "opciones": [
+          "Flauta",
+          "Tambor",
+          "Lira",
+          "Didgeridoo"
+        ],
+        "respuesta_correcta": "Flauta",
+        "explicacion": "La flauta es considerada el instrumento musical más antiguo del mundo. Se han encontrado flautas hechas de hueso y marfil que datan de hace más de 40,000 años."
+      },
+      {
+        "enunciado": "¿En qué país se encuentra la Torre Eiffel?",
+        "opciones": [
+          "Italia",
+          "Francia",
+          "España",
+          "Alemania"
+        ],
+        "respuesta_correcta": "Francia",
+        "explicacion": "La Torre Eiffel se encuentra en Francia, más específicamente en la ciudad de París. Es uno de los monumentos más reconocidos y visitados en todo el mundo."
+      },
+      {
+        "enunciado": "¿Cuál es la capital de Australia?",
+        "opciones": [
+          "Melbourne",
+          "Sídney",
+          "Canberra",
+          "Brisbane"
+        ],
+        "respuesta_correcta": "Canberra",
+        "explicacion": "La capital de Australia es Canberra. Aunque Sídney y Melbourne son las ciudades más grandes del país, Canberra fue creada específicamente para ser la capital y albergar las instituciones gubernamentales."
+      }
+    ]
+  }
+  
