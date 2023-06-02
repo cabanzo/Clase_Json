@@ -1,0 +1,1 @@
+Crear un archivo JSON con 10 preguntas y respuestas para un juego de trivia. Cada pregunta debe tener propiedades como el enunciado de la pregunta, opciones de respuesta, la respuesta correcta y una explicación detallada de por qué esa opción es la correcta. 
